@@ -1,0 +1,261 @@
+{"level":30,"time":"2021-12-03T03:02:33.952Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Listening on 56060"}
+{"level":30,"time":"2021-12-03T03:02:34.553Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-12-03T03:02:34.559Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:34.839Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Video path: undefined"}
+{"level":30,"time":"2021-12-03T03:02:34.839Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:35.325Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito, seu saldo é R$ 1000\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:35.350Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito, seu saldo é R$ 1000\")] containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-12-03T03:02:35.442Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:35.443Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:35.443Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:35.453Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:35.453Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:35.453Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:36.083Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-12-03T03:02:36.085Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:36.364Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Video path: undefined"}
+{"level":30,"time":"2021-12-03T03:02:36.364Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:36.815Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Fazer PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:36.883Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.modal-card-title in page."}
+{"level":30,"time":"2021-12-03T03:02:36.899Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.modal-card-title containing PIX"}
+{"level":30,"time":"2021-12-03T03:02:36.901Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.select select in page."}
+{"level":30,"time":"2021-12-03T03:02:36.927Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Chave PIX\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:36.936Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Chave PIX\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:36.938Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Valor\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:36.947Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Valor\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:36.949Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2021-12-03T03:02:36.968Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2021-12-03T03:02:36.984Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Enviar PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:37.074Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/..//td[@data-label=\"Código\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:37.083Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/..//td[@data-label=\"Código\"] containing 530-859-7408"}
+{"level":30,"time":"2021-12-03T03:02:37.086Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:37.093Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:37.101Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. containing 530-859-7408\tEnvio de PIX\tC6 Bank - PIX para QANINJA MELHOR CURSO DE AUTOMACAO LTDA\t03/12/2021\tR$ -100 "}
+{"level":30,"time":"2021-12-03T03:02:37.103Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:37.111Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. containing 530-859-7408\tEnvio de PIX\tC6 Bank - PIX para QANINJA MELHOR CURSO DE AUTOMACAO LTDA\t03/12/2021\tR$ -100 "}
+{"level":30,"time":"2021-12-03T03:02:37.113Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:37.123Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. containing 530-859-7408\tEnvio de PIX\tC6 Bank - PIX para QANINJA MELHOR CURSO DE AUTOMACAO LTDA\t03/12/2021\tR$ -100 "}
+{"level":30,"time":"2021-12-03T03:02:37.125Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:37.132Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA MELHOR CURSO DE AUTOMACAO LTDA\")]/.. containing 530-859-7408\tEnvio de PIX\tC6 Bank - PIX para QANINJA MELHOR CURSO DE AUTOMACAO LTDA\t03/12/2021\tR$ -100 "}
+{"level":30,"time":"2021-12-03T03:02:37.134Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:37.139Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:37.147Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 900"}
+{"level":30,"time":"2021-12-03T03:02:37.258Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:37.258Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:37.258Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:37.264Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:37.264Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:37.264Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:37.849Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-12-03T03:02:37.851Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:38.117Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Video path: undefined"}
+{"level":30,"time":"2021-12-03T03:02:38.117Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:38.565Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Fazer PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:38.632Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.modal-card-title in page."}
+{"level":30,"time":"2021-12-03T03:02:38.646Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.modal-card-title containing PIX"}
+{"level":30,"time":"2021-12-03T03:02:38.648Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.select select in page."}
+{"level":30,"time":"2021-12-03T03:02:38.665Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Chave PIX\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.676Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Chave PIX\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:38.678Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Valor\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.686Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Valor\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:38.687Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2021-12-03T03:02:38.712Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2021-12-03T03:02:38.730Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Enviar PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:38.849Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA\")]/..//td[@data-label=\"Código\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.859Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA\")]/..//td[@data-label=\"Código\"] containing 429-753-0217"}
+{"level":30,"time":"2021-12-03T03:02:38.861Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:38.866Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:38.876Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA\")]/.. containing 429-753-0217\tEnvio de PIX\tNext - PIX para QANINJA\t03/12/2021\tR$ -888.77 "}
+{"level":30,"time":"2021-12-03T03:02:38.878Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:38.884Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA\")]/.. containing 429-753-0217\tEnvio de PIX\tNext - PIX para QANINJA\t03/12/2021\tR$ -888.77 "}
+{"level":30,"time":"2021-12-03T03:02:38.886Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:38.893Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA\")]/.. containing 429-753-0217\tEnvio de PIX\tNext - PIX para QANINJA\t03/12/2021\tR$ -888.77 "}
+{"level":30,"time":"2021-12-03T03:02:38.895Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),\" QANINJA\")]/.. in page."}
+{"level":30,"time":"2021-12-03T03:02:38.902Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//td[contains(text(),\" QANINJA\")]/.. containing 429-753-0217\tEnvio de PIX\tNext - PIX para QANINJA\t03/12/2021\tR$ -888.77 "}
+{"level":30,"time":"2021-12-03T03:02:38.904Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.909Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.916Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:38.930Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.938Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:38.961Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.969Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:38.992Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:38.999Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.023Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.032Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.052Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.061Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.083Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.091Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.116Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.125Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.145Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.152Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.175Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.185Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.207Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.214Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.239Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.248Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.268Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.277Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.300Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.307Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.331Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.338Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.362Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.371Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.391Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.399Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.422Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.429Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.454Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.461Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.483Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.490Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.514Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.521Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.545Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.552Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.576Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.583Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.609Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.617Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.637Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.644Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.669Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.676Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.700Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.707Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.731Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.738Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.764Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.771Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.793Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.800Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.824Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.832Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.855Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.864Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.886Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.894Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:39.917Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(text(),\"Olá Papito\")] in page."}
+{"level":30,"time":"2021-12-03T03:02:39.924Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element xpath=//a[contains(text(),\"Olá Papito\")] containing Olá Papito, seu saldo é R$ 111.23000000000002"}
+{"level":30,"time":"2021-12-03T03:02:40.050Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:40.050Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:40.050Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:40.056Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:40.056Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:40.056Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:40.676Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-12-03T03:02:40.678Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:40.965Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Video path: undefined"}
+{"level":30,"time":"2021-12-03T03:02:40.965Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:41.451Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Fazer PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:41.514Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.modal-card-title in page."}
+{"level":30,"time":"2021-12-03T03:02:41.530Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.modal-card-title containing PIX"}
+{"level":30,"time":"2021-12-03T03:02:41.532Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.select select in page."}
+{"level":30,"time":"2021-12-03T03:02:41.549Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Chave PIX\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:41.558Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Chave PIX\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:41.560Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Valor\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:41.567Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Valor\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:41.569Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2021-12-03T03:02:41.585Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2021-12-03T03:02:41.608Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Enviar PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:41.704Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:41.714Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:41.789Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:41.790Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:41.790Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:41.795Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:41.795Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:41.795Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:42.332Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-12-03T03:02:42.334Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:42.606Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Video path: undefined"}
+{"level":30,"time":"2021-12-03T03:02:42.606Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:43.057Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Fazer PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:43.131Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.modal-card-title in page."}
+{"level":30,"time":"2021-12-03T03:02:43.143Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.modal-card-title containing PIX"}
+{"level":30,"time":"2021-12-03T03:02:43.145Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.select select in page."}
+{"level":30,"time":"2021-12-03T03:02:43.161Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Chave PIX\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:43.171Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Chave PIX\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:43.172Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Valor\"] in page."}
+{"level":30,"time":"2021-12-03T03:02:43.180Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=input[placeholder=\"Valor\"] containing "}
+{"level":30,"time":"2021-12-03T03:02:43.181Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=chave-pix in page."}
+{"level":30,"time":"2021-12-03T03:02:43.197Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with id=valor in page."}
+{"level":30,"time":"2021-12-03T03:02:43.226Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with text=Enviar PIX in page."}
+{"level":30,"time":"2021-12-03T03:02:43.331Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.340Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.358Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.366Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.391Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.401Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.420Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.427Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.451Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.459Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.482Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.490Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.513Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.520Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.543Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.550Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.574Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.581Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.605Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.613Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.636Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.644Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.668Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.676Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.699Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.706Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.731Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.739Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.760Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.767Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.790Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.797Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.822Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.830Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.853Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.860Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.883Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.891Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.915Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.922Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.947Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.956Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:43.976Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:43.983Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.007Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.015Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.039Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.046Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.070Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.077Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.102Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.110Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.131Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.138Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.162Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.169Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.193Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.200Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.224Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.231Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.256Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.264Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.285Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.293Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.316Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.323Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.346Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Strict mode is enabled, find Locator with css=.media-content in page."}
+{"level":30,"time":"2021-12-03T03:02:44.354Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-12-03T03:02:44.490Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:44.490Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:44.490Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
+{"level":30,"time":"2021-12-03T03:02:44.496Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active context"}
+{"level":30,"time":"2021-12-03T03:02:44.496Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-03T03:02:44.496Z","pid":10164,"hostname":"DESKTOP-FV5Q462","msg":"Changed active page"}
